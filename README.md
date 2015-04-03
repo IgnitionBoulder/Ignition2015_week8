@@ -1,11 +1,19 @@
 # Introduction to Bootstrap for frontend and CSS
 
 ##### Questions to answer:
-- What are CSS frameworks?
-- How do frameworks actually work?
-- How do you interact with the framework to get the look you want?
-- What is Twitter Bootstrap?
-- What other frameworks can you find out there?
+ What are CSS frameworks?  
+-   These are pre-prepared software frameworks that allow for more complient, easier web design using Cascading Style Sheets language.  
+  
+- How do frameworks actually work?  
+-   They work as a package, which are made up of a structure of files and folders of standardized code such as HTML or CSS, which can be used to support the development of websites.  
+
+- How do you interact with the framework to get the look you want?  
+-   TO interact with the framework to make it look how we want it to, you modify the files, then you over ride them, which you put after the bootstrap. So you are override the the code in your own custom file then put them to bootstrap.  
+  
+- What is Twitter Bootstrap?  
+-   
+- What other frameworks can you find out there?  
+-   
 - What are the disadvantages of using frameworks?
 
 ##### Resources
