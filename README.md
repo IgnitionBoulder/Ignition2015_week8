@@ -16,7 +16,7 @@
 - What other frameworks can you find out there?  
     There are many other frameworks that can be found out there to be used in webdevelopment. The second one behind Bootstrap is know as Foundation. There are also frameworks like Samantic UI, Ionic, Almost Flat UI, UIKit, Bootflat, jQuery, and Brick to name some of the other ones.        
   
-- What are the disadvantages of using frameworks?
+- What are the disadvantages of using frameworks?  
     Some of the disadvantages may be that you dont really learn the language behind the framework but you may just learn the framework. Another disadvatage may be that it can be limiting and there is very little way of changing the basis of the framework. ANother one is that it is a publicly accessable framework, that anyone can get their hands on and use.  
 
 ##### Resources
