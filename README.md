@@ -6,7 +6,7 @@
 - How do frameworks actually work?
   - they're collections of css files that are interacted with in a specific policy dependent on what framework you're using
 - How do you interact with the framework to get the look you want?
-  -in the context of bootstrap, you break up what you want your web page to look like into rows and columns, and as far as my workflow goes, mess with it until it works
+  - in the context of bootstrap, you break up what you want your web page to look like into rows and columns, and as far as my workflow goes, mess with it until it works
 - What is Twitter Bootstrap?
   - it's a grid-based CSS framework developed by twitter, originally internal to twitter itself for making management interfaces i believe
 - What other frameworks can you find out there?
