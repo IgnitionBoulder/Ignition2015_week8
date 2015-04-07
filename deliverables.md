@@ -1,2 +1,2 @@
-- link to your repo on GitHub: 
-- link to your app on Heroku:
+- link to your repo on GitHub: https://github.com/SimonRuppGreene/ignition-week8-bootstrap
+- link to your app on Heroku: https://stark-savannah-6620.herokuapp.com/
