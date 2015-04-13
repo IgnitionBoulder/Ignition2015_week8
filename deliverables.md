@@ -1,2 +1,2 @@
-- link to your repo on GitHub: 
-- link to your app on Heroku:
+- link to your repo on GitHub:  https://github.com/econno11y/new-app-week-8.git
+- link to your app on Heroku:https://quiet-lowlands-7050.herokuapp.com/

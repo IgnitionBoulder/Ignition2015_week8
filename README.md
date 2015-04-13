@@ -1,12 +1,13 @@
 # Introduction to Bootstrap for frontend and CSS
 
 ##### Questions to answer:
-- What are CSS frameworks?
-- How do frameworks actually work?
-- How do you interact with the framework to get the look you want?
-- What is Twitter Bootstrap?
-- What other frameworks can you find out there?
-- What are the disadvantages of using frameworks?
+- What are CSS frameworks? it is a reusable development environment that facilitates anything from responsive design to cutting edge features to standards compliance in the css development language via toolkits and code libraries.  
+- How do frameworks actually work? They are usually a set of stylesheets that establish style rules for different elements or groups of elements on the site.
+- How do you interact with the framework to get the look you want? you simpley rewrite the default code
+- What is Twitter Bootstrap?  it is a continually evolving style guide that that was created as a framework for Twitter applications but is now used by many other websites, including Sendgrid and Codeacademy
+- What other frameworks can you find out there? Golen Grid, titan, 960 Grid, skeleton, tuktuk, kube, gumby
+- What are the disadvantages of using frameworks?  If the framework is hosted in one place then it can end up requiring lots  
+- of HTTP requests, which can be difficult for administrators.  Some complain that they have nonsymantic class names and that they can cause code bloat.  Finally, they can serve as too much of a crutch for new developers. 
 
 ##### Resources
 - [How Twitter Bootstrap was built](http://alistapart.com/article/building-twitter-bootstrap)
